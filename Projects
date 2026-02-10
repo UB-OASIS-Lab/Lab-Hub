@@ -1,13 +1,1 @@
-md
-# Projects
-This folder indexes active and completed OASIS Lab research projects.
 
-Each project has its own GitHub repository containing:
-- code
-- data (or metadata)
-- documentation
-- citation information
-
-## Active Projects
-- Energy Poverty Risk Modeling → https://github.com/...
-- Wildfire Household Disruptions → https://github.com/...
