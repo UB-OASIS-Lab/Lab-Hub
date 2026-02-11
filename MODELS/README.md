@@ -1,4 +1,4 @@
-# Mdoels, Tools and Software
+# Models, Tools and Software
 
 This folder indexes reusable tools, models, and software packages developed by the lab.
 
